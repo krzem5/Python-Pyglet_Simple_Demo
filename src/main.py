@@ -1,4 +1,4 @@
-from pyglet.gl import *;from pyglet.window import key;from math import sin, cos, pi, sqrt;from PIL import Image, ImageDraw;import random;import os
+from pyglet.gl import *;from pyglet.window import key;from math import sin, cos, pi;from PIL import Image, ImageDraw;import random;import os
 
 
 
